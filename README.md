@@ -150,7 +150,7 @@
 * 在某些语句之后，会加一个缩进; 缩进减少，则表示当前块结束。
 * 例如
     x = 7 ** 6
-    print（x）#witt. fron't  inden-tation
+    print（x）#witt. fron't  indentation
 * 这段代码在Python中是错误的，虽然它在C ++，Matlab和许多其他代码或应用程序中是可以接受的。
 
 
